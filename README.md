@@ -1,8 +1,8 @@
 # 关注我的公众号 程序员khaos
 
 ### Hi there 👋
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cxykhaos&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxykhaos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cxykhaos&show_icons=true&theme=Gradient)
 
 <!--
 **cxykhaos/cxykhaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
