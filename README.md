@@ -1,3 +1,6 @@
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cxykhaos&show_icons=true)
+
+
 ### Hi there 👋
 
 <!--
