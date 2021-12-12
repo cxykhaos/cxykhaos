@@ -1,7 +1,8 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cxykhaos&show_icons=true)
 # 关注我的公众号 程序员khaos
 
 ### Hi there 👋
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cxykhaos&show_icons=true)
 
 <!--
 **cxykhaos/cxykhaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
